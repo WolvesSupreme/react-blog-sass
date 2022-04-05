@@ -1,7 +1,5 @@
-import { click } from "@testing-library/user-event/dist/click";
 import React, { useState } from "react";
 import { FaBars, FaTimes } from "react-icons/fa";
-import { Route, Router, Routes } from "react-router-dom";
 import { Link } from "react-scroll";
 import logo from "../../../assets/logo.png";
 

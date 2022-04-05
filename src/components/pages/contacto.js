@@ -1,7 +1,7 @@
 import { useForm } from "react-hook-form";
 import React from "react";
 import contactImg from "../../assets/contact.png";
-import From from "./From";
+
 // <- Validacion del formulario con libreria
 
 export default function Contact() {
